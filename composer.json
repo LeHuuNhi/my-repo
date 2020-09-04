@@ -3,5 +3,9 @@
     "description": "A short description of what your package does",
     "require": {
         "php": "^7.2"
-    }
+    },
+    "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ]
 }
